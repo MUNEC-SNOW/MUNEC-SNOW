@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MUNEC-SNOW
 - 👀 I’m interested in Angular，Design Pattern，anything about the computer.
 - 🌱 I’m currently learning ML
-- 📫 How to reach me ...twitter：@MunecSnow KadeWon@outlook.com
+- 📫 How to reach me ...twitter：@MunecSnow Email: KadeWon@outlook.com or munecsnow@gmail.com
 
 <!---
 MUNEC-SNOW/MUNEC-SNOW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
